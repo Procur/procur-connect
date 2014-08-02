@@ -1,0 +1,25 @@
+{
+  "name": "Procur-Connect",
+  "version": "0.0.0",
+  "description": "Wrapper for the Procur API",
+  "main": "calls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Procur/procur-connect.git"
+  },
+  "keywords": [
+    "procur"
+  ],
+  "author": "Will Ricketts",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Procur/procur-connect/issues"
+  },
+  "homepage": "https://github.com/Procur/procur-connect",
+  "dependencies": {
+    "rest": "^1.1.1"
+  }
+}
