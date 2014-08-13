@@ -51,7 +51,32 @@ module.exports = {
   },
 
   getAllAssets: function(token, callback) {
-    
-  }
 
+  },
+
+  //CREATE METHODS
+
+  createUser: function(params, callback) {
+
+  },
+
+  createCompany: function(params, callback) {
+
+  },
+
+  createBuyer: function(params, callback) {
+
+  },
+
+  createSupplier: function(params, callback) {
+
+  },
+
+  createLocation: function(params, callback) {
+
+  },
+
+  createAsset: function(params, callback) {
+
+  }
 };
